@@ -8,11 +8,11 @@ I am an **QA Engineer** with over 6 years of experience in the e-commerce, finan
 
 I’m currently advancing my skills in test automation, with a strong focus on:
 
-**Frameworks & Tools:** Selenium, Playwright, Cypress, and Appium for web and mobile testing.
-**\*Programming Languages:** Python, and JavaScript/TypeScript to build robust automation scripts.
-**API Testing:** Learning core API testing concepts with Postman, with plans to expand into RestAssured for automation.
-**CI/CD Integration:** Implementing automated testing pipelines with GitHub Actions, and Azure DevOps.
-**Best Practices:** Page Object Model (POM), BDD (Cucumber, SpecFlow)
+- **Frameworks & Tools:** Selenium, Playwright, Cypress, and Appium for web and mobile testing.
+- **Programming Languages:** Python, and JavaScript/TypeScript to build robust automation scripts.
+- **API Testing:** Learning core API testing concepts with Postman, with plans to expand into RestAssured for automation.
+- **CI/CD Integration:** Implementing automated testing pipelines with GitHub Actions, and Azure DevOps.
+- **Best Practices:** Page Object Model (POM), BDD (Cucumber, SpecFlow)
 
 My goal is to increase testing efficiency, coverage, and reliability while contributing to agile development cycles.
 
