@@ -1,6 +1,6 @@
 # ¡Hola! Soy Diego Chacón 👋
 
-![[Imagen de banner genérico de tecnología o código]](https://placehold.co/800x200/6366F1/E0E7FF?text=AQA+Engineer+%26+Mid+To+Expert)
+![[Imagen de banner genérico de tecnología o código]](https://placehold.co/800x200/6366F1/E0E7FF?text=SDET+Engineer+%26+Mid+To+Expert)
 
 I am an **QA Engineer** with over 6 years of experience in the e-commerce, finance, and healthcare sectors, specializing in functional, usability, and regression testing. I am passionate about ensuring software quality and firmly committed to my professional growth, currently focusing on transitioning to QA Automation.
 
